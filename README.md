@@ -15,26 +15,5 @@ A simple yet powerful password generator with a GUI, built using **Python** and 
    pip install pyperclip
 3. **Download project files and run the script:**
  ```sh
-python password_generator.py```
-
-
-
-🎨 Customization
-- Change the color scheme with root.configure(bg="YOUR_COLOR")
-- Modify the app icon with root.iconbitmap("your_icon.ico")
-- Add extra features, like password strength indicators
-🖥️ Usage
-- Run the script.
-- Enter the desired password length.
-- Click "Generate" to create a password.
-- Use the "Copy" button to copy it directly to your clipboard.
-🛠️ Technologies
-- Python 🐍
-- Tkinter for the GUI
-- pyperclip for clipboard functionality
-📜 License
-This project is released under the MIT License. Free to use, modify, and extend.
-💡 Ideas for Enhancements
-- Password strength evaluation
-- Store passwords in an encrypted database
-- Integration with a password manager
+python password_generator.py
+```
