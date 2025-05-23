@@ -15,7 +15,7 @@ A simple yet powerful password generator with a GUI, built using **Python** and 
    pip install pyperclip
 3. **Download project files and run the script:**
  ```sh
-python password_generator.py
+python password_generator.py```
 
 
 
