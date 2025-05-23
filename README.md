@@ -10,6 +10,6 @@ A simple yet powerful password generator with a GUI, built using **Python** and 
 
 # IMPORTANT: MAKE SURE YOU HAVE PYTHON INSTALLED! OTHERWISE IT WON'T WORK!
 
-1. Download the password generator from the (releases)[https://github.com/zcreeperyt/Password-Generator/releases] tab.
-2. Extract the zip to a place of your choice.
-3. Run the script.
+1. Download the password generator from the [releases](https://github.com/zcreeperyt/Password-Generator/releases) tab.
+3. Extract the zip to a place of your choice.
+4. Run the script.
